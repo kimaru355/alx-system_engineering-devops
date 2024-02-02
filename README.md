@@ -1,1 +1,1 @@
-Start of a journey
+shell basics
