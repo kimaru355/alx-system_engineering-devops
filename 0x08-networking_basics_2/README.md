@@ -1,2 +1,1 @@
-Networking basics
-Localhost, 0.0.0.0, host file
+0x08. Networking basics #1

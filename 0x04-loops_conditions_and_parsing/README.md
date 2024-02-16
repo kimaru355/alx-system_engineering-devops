@@ -1,1 +1,1 @@
-loops conditions and parsing bash
+This task is about Loops Condition and Parsing

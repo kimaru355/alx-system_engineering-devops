@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# This script kills a process using command kill
-kill "$(ps -x | pgrep -f beyond)"
+# stopped our 4-to_infinity_and_beyond process
+# using ctrl+c in the previous task
+
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
